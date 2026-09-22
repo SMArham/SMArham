@@ -1,34 +1,54 @@
 <div align="center">
 
 # Syed Muhammad Arham
-### Software Engineer | Data Scientist & Machine Learning Enthusiast
+### Software Engineer | Data Scientist & Machine Learning Engineer
 
 [![Portfolio](https://img.shields.io/badge/Live_Portfolio-0070F3?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-phi-six-59.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syedmuhammadarham)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syedarhamreal@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Karachi%2C%20Pakistan-009688?style=for-the-badge&logo=google-maps&logoColor=white)](https://my-portfolio-phi-six-59.vercel.app/)
+[![GitHub Pro](https://img.shields.io/badge/GitHub-Pro-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SMArham)
 
 <br />
 
 <p align="center">
-  <em>Passionate Software Engineer and BSCS student at Iqra University (2024 to 2028) dedicated to building data-driven intelligent applications, scalable REST APIs, predictive machine learning models, and modern user interfaces.</em>
+  <em>Software Engineer and BSCS student at Iqra University (2024 to 2028) focused on building practical, data-driven software solutions. Combining algorithmic thinking, machine learning models, scalable backend APIs, and modern responsive interfaces.</em>
 </p>
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### 🌐 Live Portfolio & Project Showcase
 
-- 🎓 **Education**: BS Computer Science at **Iqra University**, Karachi, Pakistan (2024 to 2028)
-- 🔭 **Current Focus**: Machine Learning, Predictive Analytics, FastAPI/Flask Backend Engineering, and Clean Architecture
-- 💡 **Engineering Philosophy**: Modular code, clean architecture, high-performance data processing, and user-centric software design
-- 🌐 **Interactive Portfolio**: Explore all live applications and technical deep-dives at [my-portfolio-phi-six-59.vercel.app](https://my-portfolio-phi-six-59.vercel.app/)
-- 📫 **Direct Contact**: [syedarhamreal@gmail.com](mailto:syedarhamreal@gmail.com)
+> **Explore all 14+ live deployed applications, machine learning systems, and engineering demos:**  
+> 🔗 **[https://my-portfolio-phi-six-59.vercel.app/](https://my-portfolio-phi-six-59.vercel.app/)**  
+> *(Includes live demos for P&G Decision Intelligence Engine, Student Performance Prediction Platform, Cricket Tournament Tracker, Linux Telemetry Monitor, and more)*
 
 ---
 
-### 🛠️ Skills & Technologies
+### 👨‍💻 About Me
+
+- 🎓 **Education**: BS Computer Science at **Iqra University**, Karachi, Pakistan (2024 to 2028)
+- 📍 **Location**: Karachi, Pakistan (Available for Onsite & Remote Opportunities)
+- 🔭 **Current Focus**: Machine Learning, Predictive Analytics, FastAPI & Flask Backend Engineering, and Clean Architecture
+- 💡 **Engineering Philosophy**: Modular code, clean architecture, reliable data models, and scalable performance
+- 📫 **Contact Directly**: [syedarhamreal@gmail.com](mailto:syedarhamreal@gmail.com) | [LinkedIn](https://linkedin.com/in/syedmuhammadarham)
+
+---
+
+### ⚡ What I Do Best (Core Technical Pillars)
+
+- **Software & API Engineering**: Building high-throughput REST APIs and backend microservices with FastAPI and Flask connected to Supabase (PostgreSQL), Microsoft SQL Server, SQLite, and NoSQL databases.
+- **Machine Learning & Predictive Systems**: Developing machine learning models, predictive pipelines, and decision intelligence systems using Scikit-Learn (K-Means, Random Forest, Regression) with robust cross-validation and live inference.
+- **Data Science & Analytics**: End-to-end data manipulation, feature engineering, and exploratory analysis using Pandas, NumPy, Snappy Parquet, and interactive dashboards via Streamlit and Plotly.
+- **DSA, OOP & Clean Architecture**: Writing scalable, maintainable software using Object-Oriented Programming (OOP) design patterns and Data Structures & Algorithms (DSA) in C++, Java, and Python.
+- **Modern User Interfaces**: Engineering accessible, responsive, and performance-focused web frontends using Tailwind CSS, HTML5, CSS3, JavaScript, and Bootstrap.
+- **Linux Automation & DevOps**: Server resource telemetry monitoring, automated health alerting, Bash automation scripts, and Git/GitHub version-controlled CI/CD workflows.
+
+---
+
+### 🛠️ Comprehensive Technical Stack
 
 #### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -38,54 +58,56 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-#### 🧠 Machine Learning & Data Science
+#### 🧠 Data Science & Machine Learning
 ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-Clustering_%26_Classification-blue?style=for-the-badge)
+![Fuzzy Logic](https://img.shields.io/badge/Fuzzy_Logic-Decision_Intelligence-purple?style=for-the-badge)
 
-#### ⚙️ Frameworks, APIs & Web
+#### ⚙️ Frameworks, APIs & Databases
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=postman&logoColor=white)
-
-#### 🗄️ Databases, Cloud & DevOps
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+#### 🎨 Frontend, DevOps & Tooling
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 ---
 
-### 🚀 Featured Live Projects
-
-| Project | Tech Stack | Highlights | Live Demo |
-| :--- | :--- | :--- | :---: |
-| **P&G Budget Decision Intelligence Engine** | Python, Streamlit, K-Means, Fuzzy Logic | ML optimization platform for FMCG advertising media planning using fuzzy inferencing and clustering. | [🔗 Open Demo](https://decision-intelligence.syedarhamreal.workers.dev/) |
-| **Student Performance Prediction Platform** | FastAPI, Scikit-Learn, Supabase, Chart.js | AI predictive platform forecasting academic outcomes with interactive analytics and secure database storage. | [🔗 Open Demo](https://student-performance-prediction-one-beryl.vercel.app/login.html) |
-| **Cricket Tournament Tracker & Win Probability** | Flask, Scikit-Learn, SQL Server, Supabase | Real-time tournament statistics and match win probability modeling with machine learning algorithms. | [🔗 Open Demo](https://cricket-tournament-tracker.vercel.app/) |
-| **Linux System Health Monitor** | Python, Bash, Linux Automation | Server resource telemetry tracker collecting CPU, RAM, and disk metrics with automated threshold email alerts. | 💻 Code |
-| **Interactive Personal Portfolio** | HTML5, Tailwind CSS, Alpine.js, Vercel | Fully responsive, high-performance developer portfolio showcasing 14+ deployed projects. | [🔗 Open Demo](https://my-portfolio-phi-six-59.vercel.app/) |
-
----
-
-### 📊 GitHub Activity & Stats
+### 📊 GitHub Activity & Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=smarham&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="Syed Muhammad Arham's GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=smarham&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" width="48%" />
+| 🏆 Status | 📦 Public Repos | 🌟 Total Contributions | 🔥 Current Streak | ⚡ Longest Streak |
+| :---: | :---: | :---: | :---: | :---: |
+| **GitHub Pro** | **83** | **377+** | **1 Day (Active)** | **5 Days** |
+
+<br />
+
+<img src="https://github-readme-stats-fast.vercel.app/api?username=SMArham&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="Syed Muhammad Arham's GitHub Stats" width="48%" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=SMArham&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" width="48%" />
 
 <br /><br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=smarham&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" width="97%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SMArham&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" width="97%" />
 
 </div>
 
