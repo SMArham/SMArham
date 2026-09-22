@@ -96,18 +96,24 @@
 
 <div align="center">
 
-| 🏆 Status | 📦 Public Repos | 🌟 Total Contributions | 🔥 Current Streak | ⚡ Longest Streak |
-| :---: | :---: | :---: | :---: | :---: |
-| **GitHub Pro** | **83** | **377+** | **1 Day (Active)** | **5 Days** |
-
-<br />
-
-<img src="https://github-readme-stats-fast.vercel.app/api?username=SMArham&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="Syed Muhammad Arham's GitHub Stats" width="48%" />
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=SMArham&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" width="48%" />
+[![Public Repos](https://img.shields.io/badge/Public_Repositories-83-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SMArham?tab=repositories)
+[![Total Commits](https://img.shields.io/badge/All--Time_Commits-240+-blue?style=for-the-badge&logo=git&logoColor=white)](https://github.com/SMArham)
+[![Total Contributions](https://img.shields.io/badge/Total_Contributions-377+-orange?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SMArham)
+[![GitHub Status](https://img.shields.io/badge/GitHub-Pro_Developer-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SMArham)
 
 <br /><br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SMArham&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" width="97%" />
+<!-- Interactive Streak Stats (Total Contributions: 377, Current Streak, Longest Streak) -->
+<a href="https://github.com/SMArham">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SMArham&theme=tokyonight&hide_border=false" alt="Syed Muhammad Arham Streak & Contribution Activity" width="85%" />
+</a>
+
+<br /><br />
+
+<!-- Code Productivity Stats (Issues, PRs, and arbitrary rank removed, showing pure strengths) -->
+<a href="https://github.com/SMArham">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=SMArham&theme=tokyonight&show_icons=true&hide=issues,prs,contribs&include_all_commits=true&count_private=true&hide_rank=true" alt="Syed Muhammad Arham GitHub Productivity Stats" width="60%" />
+</a>
 
 </div>
 
